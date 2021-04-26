@@ -1,0 +1,14 @@
+C:\Users\markg\OneDrive - Columbia College Chicago\Programing\CezarShiftVersoins\CezarShiftFinal1\CezarShiftFinal1\CezarShiftFinal1\bin\Debug\CezarShiftFinal1.exe.config
+C:\Users\markg\OneDrive - Columbia College Chicago\Programing\CezarShiftVersoins\CezarShiftFinal1\CezarShiftFinal1\CezarShiftFinal1\bin\Debug\CezarShiftFinal1.exe
+C:\Users\markg\OneDrive - Columbia College Chicago\Programing\CezarShiftVersoins\CezarShiftFinal1\CezarShiftFinal1\CezarShiftFinal1\bin\Debug\CezarShiftFinal1.pdb
+C:\Users\markg\OneDrive - Columbia College Chicago\Programing\CezarShiftVersoins\CezarShiftFinal1\CezarShiftFinal1\CezarShiftFinal1\obj\Debug\CezarShiftFinal1.csprojAssemblyReference.cache
+C:\Users\markg\OneDrive - Columbia College Chicago\Programing\CezarShiftVersoins\CezarShiftFinal1\CezarShiftFinal1\CezarShiftFinal1\obj\Debug\CezarShiftFinal1.csproj.CoreCompileInputs.cache
+C:\Users\markg\OneDrive - Columbia College Chicago\Programing\CezarShiftVersoins\CezarShiftFinal1\CezarShiftFinal1\CezarShiftFinal1\obj\Debug\CezarShiftFinal1.exe
+C:\Users\markg\OneDrive - Columbia College Chicago\Programing\CezarShiftVersoins\CezarShiftFinal1\CezarShiftFinal1\CezarShiftFinal1\obj\Debug\CezarShiftFinal1.pdb
+C:\Users\markg\OneDrive - Columbia College Chicago\IntroductionToProgrammingFA19\CezarShiftVersoins\CezarShiftFinal1\CezarShiftFinal1\CezarShiftFinal1\bin\Debug\CezarShiftFinal1.exe.config
+C:\Users\markg\OneDrive - Columbia College Chicago\IntroductionToProgrammingFA19\CezarShiftVersoins\CezarShiftFinal1\CezarShiftFinal1\CezarShiftFinal1\bin\Debug\CezarShiftFinal1.exe
+C:\Users\markg\OneDrive - Columbia College Chicago\IntroductionToProgrammingFA19\CezarShiftVersoins\CezarShiftFinal1\CezarShiftFinal1\CezarShiftFinal1\bin\Debug\CezarShiftFinal1.pdb
+C:\Users\markg\OneDrive - Columbia College Chicago\IntroductionToProgrammingFA19\CezarShiftVersoins\CezarShiftFinal1\CezarShiftFinal1\CezarShiftFinal1\obj\Debug\CezarShiftFinal1.csprojAssemblyReference.cache
+C:\Users\markg\OneDrive - Columbia College Chicago\IntroductionToProgrammingFA19\CezarShiftVersoins\CezarShiftFinal1\CezarShiftFinal1\CezarShiftFinal1\obj\Debug\CezarShiftFinal1.csproj.CoreCompileInputs.cache
+C:\Users\markg\OneDrive - Columbia College Chicago\IntroductionToProgrammingFA19\CezarShiftVersoins\CezarShiftFinal1\CezarShiftFinal1\CezarShiftFinal1\obj\Debug\CezarShiftFinal1.exe
+C:\Users\markg\OneDrive - Columbia College Chicago\IntroductionToProgrammingFA19\CezarShiftVersoins\CezarShiftFinal1\CezarShiftFinal1\CezarShiftFinal1\obj\Debug\CezarShiftFinal1.pdb
